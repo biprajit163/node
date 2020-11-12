@@ -1,0 +1,4 @@
+This is an edit by me, Bips. My goal is to undrestand how git works, 
+and how I can make clones of Git Repositories and implement my own changes.
+Once I have commited these changes and my local repository differs from my remote repository. 
+I have to update my remote repository with the command (git push origin master).
